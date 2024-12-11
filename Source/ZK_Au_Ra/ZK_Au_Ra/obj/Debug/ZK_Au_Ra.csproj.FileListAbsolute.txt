@@ -1,0 +1,7 @@
+/home/zriatt/.steam/debian-installation/steamapps/common/RimWorld/Mods/ZK Cosmetic/Source/Assemblies/ZK_Au_Ra.dll
+/home/zriatt/.steam/debian-installation/steamapps/common/RimWorld/Mods/ZK Cosmetic/Source/Assemblies/ZK_Au_Ra.pdb
+/home/zriatt/.steam/debian-installation/steamapps/common/RimWorld/Mods/ZK Cosmetic/Source/ZK_Au_Ra/ZK_Au_Ra/obj/Debug/ZK_Au_Ra.csproj.AssemblyReference.cache
+/home/zriatt/.steam/debian-installation/steamapps/common/RimWorld/Mods/ZK Cosmetic/Source/ZK_Au_Ra/ZK_Au_Ra/obj/Debug/ZK_Au_Ra.csproj.CoreCompileInputs.cache
+/home/zriatt/.steam/debian-installation/steamapps/common/RimWorld/Mods/ZK Cosmetic/Source/ZK_Au_Ra/ZK_Au_Ra/obj/Debug/ZK_Au_Ra.csproj.CopyComplete
+/home/zriatt/.steam/debian-installation/steamapps/common/RimWorld/Mods/ZK Cosmetic/Source/ZK_Au_Ra/ZK_Au_Ra/obj/Debug/ZK_Au_Ra.dll
+/home/zriatt/.steam/debian-installation/steamapps/common/RimWorld/Mods/ZK Cosmetic/Source/ZK_Au_Ra/ZK_Au_Ra/obj/Debug/ZK_Au_Ra.pdb
